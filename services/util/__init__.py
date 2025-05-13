@@ -1,0 +1,1 @@
+from .query_templates import make_fact_prompt, make_mcq_prompt
