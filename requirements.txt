@@ -1,0 +1,17 @@
+pandas 
+libretranslatepy 
+ollama 
+sentence-transformers 
+scikit-learn 
+wandb 
+prefect 
+pytest 
+black 
+flake8
+pyaml-env
+scipy
+spacy
+nltk
+textstat
+matplotlib
+statsmodels
